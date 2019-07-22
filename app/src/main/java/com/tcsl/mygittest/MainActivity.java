@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("我是功能1");
         System.out.println("我是功能3");
+        System.out.println("我是功能4");
     }
 }
